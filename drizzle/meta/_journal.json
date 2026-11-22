@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1795377600000,
+      "tag": "0000_campus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1795379617000,
+      "tag": "0001_student_accounts",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1795379946000,
+      "tag": "0002_account_profile",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.git
+.openai
+.local
+node_modules
+dist
+*.sqlite*
+*.log

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="250" viewBox="0 0 650 250" fill="none">
+<defs>
+ <pattern id="grid" width="30" height="17.32" patternUnits="userSpaceOnUse"><path d="M0 0 30 17.32M30 0 0 17.32" stroke="#ccd4ff" stroke-opacity=".16" stroke-width=".8"/></pattern>
+ <pattern id="ribs" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M0 0v11" stroke="#a1b3ff" stroke-opacity=".8" stroke-width="2"/></pattern>
+ <pattern id="paper" width="4" height="4" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#3348bc"/></pattern>
+</defs>
+<path d="M0 117 208 0h252l190 109v61l-139 80H211L0 128Z" fill="url(#grid)"/>
+<g stroke="#cdd6ff" stroke-width="1.3" stroke-linejoin="round">
+ <path d="m22 144 174-98 116 66-170 99Z" fill="#354fc0"/><path d="m22 144 120 67v8L22 151zm120 67 170-99v8l-170 99Z" fill="#6378da"/>
+ <path d="m64 124 120-68v-34L64 90Z" fill="#6379da"/><path d="m64 124 62 35v-34L64 90Z" fill="#8298f6"/><path d="m126 159 120-69V56l-120 69Z" fill="#485fce"/>
+ <path d="m64 90 120-68 62 34-120 69Z" fill="#e1e6ff"/><path d="m78 90 106-59 46 25-105 59Z" fill="#a2b3f4"/><path d="m85 90 98-55 38 21-97 56Z" fill="url(#paper)"/>
+ <path d="m66 104 59 34 119-68M66 112l59 34 119-67" stroke="#e1e6ff"/>
+ <path d="M72 99v18m9-14v19m9-13v19m9-14v19m9-13v19m9-14v19m19-20v17m10-23v17m10-23v17m10-23v17m10-23v17m10-22v17m10-23v17m10-23v17m10-22v17m10-23v17" stroke="#cbdaff"/>
+ <path d="m365 134 121-70 130 74-122 71Z" fill="#5368d0"/><path d="m365 134 129 75v8l-129-74zm129 75 122-71v8l-122 71Z" fill="#7185dc"/>
+ <path d="m415 111 71-41 82 47-71 41Z" fill="#f1f0ce"/><path d="m415 111 82 47v35l-82-47Z" fill="#b9c9eb"/><path d="m497 158 71-41v35l-71 41Z" fill="#7188d3"/>
+ <path d="m424 119 66 38v25l-66-38Z" fill="#5b70cc"/><path d="m424 119 66 38v25l-66-38Z" fill="url(#ribs)"/><path d="m505 161 56-32v17l-56 33Z" fill="#455ebd"/><path d="m505 161 56-32v17l-56 33Z" fill="url(#ribs)"/>
+ <path d="m428 112 56-32 68 39-55 32Z" fill="#e0e4b7"/><path d="m437 112 46-26 60 34-46 26Z" fill="url(#paper)" stroke="#9ba98f"/>
+</g>
+<path d="m162 166 48 27 93-54 57 33 49-28" stroke="#172c85" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="m162 163 48 27 93-54 57 33 49-28" stroke="#e3fb84" stroke-width="5.5" stroke-linejoin="round" stroke-linecap="round"/>
+<g fill="#e3fb84" stroke="#233fba" stroke-width="2"><ellipse cx="162" cy="163" rx="8" ry="5"/><ellipse cx="409" cy="141" rx="8" ry="5"/></g>
+<g stroke="#e3fb84" stroke-width="2"><path d="M409 141V94m0 0 25-9V68l-25 9z" fill="#e3fb84"/><path d="M162 163v-16" stroke-dasharray="3 3"/></g>
+<g font-family="Arial,sans-serif" font-weight="700" font-size="13" letter-spacing="1.2"><rect x="28" y="13" width="96" height="25" rx="5" fill="#dfe6fe"/><text x="40" y="30" fill="#203993">НА ПАРЕ</text><path d="m117 38 17 20" stroke="#dfe6fe" stroke-dasharray="3 3"/><rect x="458" y="26" width="99" height="25" rx="5" fill="#e3fb84"/><text x="469" y="43" fill="#233586">ДЕКАНАТ</text><path d="m490 51 9 23" stroke="#e3fb84" stroke-dasharray="3 3"/></g></svg>
